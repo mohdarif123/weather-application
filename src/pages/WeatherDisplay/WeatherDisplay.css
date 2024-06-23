@@ -1,0 +1,32 @@
+/* src/WeatherDisplay.css */
+.weather-display {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .weather-display img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .day-icon {
+    filter: brightness(1.2);
+  }
+  
+  .night-icon {
+    filter: brightness(0.8);
+  }
+  
+  .weather-display h2 {
+    margin-bottom: 15px;
+  }
+  
+  .weather-display p {
+    margin: 5px 0;
+  }
+  

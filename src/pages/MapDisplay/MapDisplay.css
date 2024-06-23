@@ -1,0 +1,11 @@
+/* src/MapDisplay.css */
+.map-display {
+    text-align: center;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+  }
+  
